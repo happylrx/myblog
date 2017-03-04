@@ -1,6 +1,6 @@
 import React from 'react';
 import {render} from 'react-dom';
+import './main.css';
+import Routers from './routers';
 
-import App from './App.js';
-
-render(<App />,document.getElementById('root'));
+render(<Routers />,document.getElementById('root'));
