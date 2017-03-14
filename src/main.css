@@ -53,7 +53,7 @@ footer a:last-child{
 }
 .home{
   width: 100%;
-  background-image: url(./images/1.jpg);
+  background-image: url(./images/14.jpg);
   background-size: 100%;
   background-position: 50% 50%left;
 }
@@ -138,4 +138,16 @@ footer a:last-child{
 
 .leftnav a:hover{
   background-color: rgba(0, 0, 0, 0.2);
+}
+.work{
+  width: 100%;
+  background-image: url(./images/12.jpg);
+  background-size: 100%;
+  background-position: 50% 50%left;
+}
+.about{
+  width: 100%;
+  background-image: url(./images/13.jpg);
+  background-size: 100%;
+  background-position: 50% 50%left;
 }
