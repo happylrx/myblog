@@ -53,7 +53,7 @@ footer a:last-child{
 }
 .home{
   width: 100%;
-  background-image: url(./images/14.jpg);
+  background-image: url(./images/1.jpg);
   background-size: 100%;
   background-position: 50% 50%left;
 }
@@ -141,13 +141,23 @@ footer a:last-child{
 }
 .work{
   width: 100%;
-  background-image: url(./images/12.jpg);
   background-size: 100%;
   background-position: 50% 50%left;
 }
 .about{
   width: 100%;
-  background-image: url(./images/13.jpg);
   background-size: 100%;
   background-position: 50% 50%left;
+}
+.lunbotu{
+  width: 700px;
+  height: 500px;
+  overflow: hidden;
+  margin-left: 170px;
+  margin-top: 50px;
+}
+.lunbotu img{
+  display: block;
+  width: 700px;
+  height: 500px;
 }

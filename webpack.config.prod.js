@@ -35,6 +35,10 @@ module.exports = {
       loader: 'style!css!autoprefixer'
     },
     {
+      test: /\.less/,
+      loader: 'style!css!less'
+    },
+    {
       test: /\.(jpe?g|png)$/,
       loader: 'file-loader'
     },
